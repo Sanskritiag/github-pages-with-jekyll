@@ -1,2 +1,2 @@
-title: FIRST BLOG POST
-random information that is useless
+title: "FIRST BLOG POST"
+date: 2021-05-30
